@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{AF4CF703-E395-4B96-A860-8AD530F13046}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NASAFlightPlanner/Models/MissionPlanner.cs">
+    <Files>
+      <File FileName="NASAFlightPlanner/Models/MissionPlanner.cs" Line="17" Column="13" />
+      <File FileName="NASAFlightPlanner/Startup.cs" Line="49" Column="48" />
+      <File FileName="NASAFlightPlanner/Models/DogWalker.cs" Line="14" Column="9" />
+      <File FileName="NASAFlightPlannerTests/UnitTest1.cs" Line="4" Column="33" />
+      <File FileName="NASAFlightPlanner/Controllers/DogWalkerController.cs" Line="26" Column="10" />
+      <File FileName="NASAFlightPlanner/Controllers/HomeController.cs" Line="18" Column="6" />
+      <File FileName="NASAFlightPlanner/Views/Home/Index.cshtml" Line="4" Column="53" />
+      <File FileName="NASAFlightPlanner/appsettings.json" Line="1" Column="1" />
+      <File FileName="NASAFlightPlannerTests/DogWalkerTests.cs" Line="12" Column="45" />
+      <File FileName="NASAFlightPlanner/Models/NASAFlightPlannerContext.cs" Line="12" Column="26" />
+      <File FileName="NASAFlightPlanner/Views/MissionPlanner/Index.cshtml" Line="14" Column="28" NotebookId="1" />
+      <File FileName="NASAFlightPlanner/Views/DogWalker/Index.cshtml" Line="13" Column="37" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NASAFlightPlanner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

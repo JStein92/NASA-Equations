@@ -1,0 +1,15 @@
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/NASAFlightPlannerTests.deps.json
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/NASAFlightPlannerTests.runtimeconfig.json
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/NASAFlightPlannerTests.runtimeconfig.dev.json
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/NASAFlightPlannerTests.dll
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/NASAFlightPlannerTests.pdb
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/NASAFlightPlanner.dll
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/bin/Debug/netcoreapp1.1/NASAFlightPlanner.pdb
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/obj/Debug/netcoreapp1.1/NASAFlightPlannerTests.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/obj/Debug/netcoreapp1.1/NASAFlightPlannerTests.csproj.CoreCompileInputs.cache
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/obj/Debug/netcoreapp1.1/NASAFlightPlannerTests.AssemblyInfo.cs
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/obj/Debug/netcoreapp1.1/NASAFlightPlannerTests.dll
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlannerTests/obj/Debug/netcoreapp1.1/NASAFlightPlannerTests.pdb

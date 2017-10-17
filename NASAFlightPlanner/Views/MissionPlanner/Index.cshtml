@@ -1,0 +1,15 @@
+﻿
+<h1>Mission Planner</h1>
+
+<form method="post">
+    <label>Number of Days:</label>
+	<input type="number" name="NumOfDays" />
+	<label>Number of Tasks:</label>
+	<input type="number" name="NumOfTasks" />
+	<button type="submit" class="btn btn-info">Calculate</button>
+</form>
+
+
+@if (Model != null) {
+    <h1>Astronauts needed: @Model</h1>
+}

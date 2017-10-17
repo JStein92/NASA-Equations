@@ -1,0 +1,20 @@
+﻿@model NASAFlightPlanner.Models.DogWalker
+
+<h1>Dog Walker Profit Calculator</h1>
+
+@using (Html.BeginForm())
+{
+    <label>Enter rate per walk:</label>
+    @Html.TextBoxFor(model => model.rate)
+	<label>Enter hours available per day:</label>
+    @Html.TextBoxFor(model => model.hoursAvailable)
+	<label>Enter days to worked:</label>
+
+	<input type="number" name="days" />
+	<button type="submit">Calculate</button>
+}
+
+<h2>Your total profits:</h2>
+@if(Model != null){
+    <h4>$ @Model.profit</h4>
+}

@@ -1,0 +1,10 @@
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/bin/Debug/netcoreapp1.1/NASAFlightPlanner.deps.json
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/bin/Debug/netcoreapp1.1/NASAFlightPlanner.runtimeconfig.json
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/bin/Debug/netcoreapp1.1/NASAFlightPlanner.runtimeconfig.dev.json
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/obj/Debug/netcoreapp1.1/NASAFlightPlanner.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/obj/Debug/netcoreapp1.1/NASAFlightPlanner.csproj.CoreCompileInputs.cache
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/obj/Debug/netcoreapp1.1/NASAFlightPlanner.AssemblyInfo.cs
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/bin/Debug/netcoreapp1.1/NASAFlightPlanner.dll
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/bin/Debug/netcoreapp1.1/NASAFlightPlanner.pdb
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/obj/Debug/netcoreapp1.1/NASAFlightPlanner.dll
+/Users/Guest/Projects/NASAFlightPlanner/NASAFlightPlanner/obj/Debug/netcoreapp1.1/NASAFlightPlanner.pdb
